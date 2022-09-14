@@ -1,9 +1,9 @@
-package Algorithms;
+package Algorithms.Search_algorithms;
 
 import java.util.Iterator;
 import java.util.List;
 
-public class Iterator_Algorithm {
+public class IteratorAlgorithm {
     
     /**
      * Returns an iterator for a collection
