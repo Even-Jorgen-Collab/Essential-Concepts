@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Essential_concepts/Algorithms/Other_algorithms/BinaryEncodingDecoding/"
+    ],
+    "spring-boot.ls.problem.java.JAVA_SPEL_EXPRESSION_SYNTAX": "ERROR",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "spring-boot.ls.problem.application-properties.PROP_UNKNOWN_PROPERTY": "IGNORE",
+    "spring-boot.ls.problem.application-yaml.YAML_UNKNOWN_PROPERTY": "IGNORE",
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.jdt.ls.lombokSupport.enabled": false,
+    "java.jdt.ls.protobufSupport.enabled": false,
+}
