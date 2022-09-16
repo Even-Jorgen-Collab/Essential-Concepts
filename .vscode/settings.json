@@ -21,5 +21,29 @@
     "python.analysis.autoSearchPaths": false,
     "python.analysis.extraCommitChars": false,
     "python.analysis.useLibraryCodeForTypes": false,
-    "python.analysis.typeCheckingMode": "off"
+    "python.analysis.typeCheckingMode": "off",
+    "python.linting.pycodestyleCategorySeverity.E": "Hint",
+    "python.linting.pycodestyleCategorySeverity.W": "Hint",
+    "python.linting.pylintCategorySeverity.convention": "Hint",
+    "python.linting.pylintCategorySeverity.error": "Hint",
+    "python.linting.pylintCategorySeverity.fatal": "Hint",
+    "python.linting.pylintCategorySeverity.warning": "Hint",
+    "python.linting.flake8CategorySeverity.E": "Hint",
+    "python.linting.flake8CategorySeverity.F": "Hint",
+    "python.linting.flake8CategorySeverity.W": "Hint",
+    "python.linting.mypyCategorySeverity.error": "Hint",
+    "python.linting.mypyCategorySeverity.note": "Hint",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "none",
+        "reportMissingImports": "none",
+        "reportUnusedImport": "none",
+        "reportUndefinedVariable": "none",
+        "reportUnknownArgumentType": "none",
+    },
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "jupyter.kernels.filter": [
+    {"/Library/Frameworks/Python.framework/Versions/3.10/share/jupyter/kernels/java"}: ""
+    ],
+    
 }
