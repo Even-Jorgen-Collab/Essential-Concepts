@@ -9,4 +9,17 @@
     "java.configuration.updateBuildConfiguration": "disabled",
     "java.jdt.ls.lombokSupport.enabled": false,
     "java.jdt.ls.protobufSupport.enabled": false,
+    "python.analysis.ignore": [
+        "Essential_concepts/Advanced_topics/LambdaExpressions.ipynb",
+        "Essential_concepts/Advanced_topics/"
+    ],
+    "python.analysis.exclude": [
+        "Essential_concepts/Advanced_topics/LambdaExpressions.ipynb",
+        "Essential_concepts/Advanced_topics/"
+    ],
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.autoSearchPaths": false,
+    "python.analysis.extraCommitChars": false,
+    "python.analysis.useLibraryCodeForTypes": false,
+    "python.analysis.typeCheckingMode": "off"
 }
