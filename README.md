@@ -6,5 +6,8 @@ other programs, making them more efficient, more flexible and easier to read and
 extend.
 
 
-For design patterns and its uses, see this link:
+Design patterns and its uses, see this link:
 https://refactoring.guru
+
+Theory, litterature, images and coding examples:
+https://www.geeksforgeeks.org/
