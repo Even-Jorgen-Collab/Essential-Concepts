@@ -1,13 +1,22 @@
+<br>
 
 # Essential Concepts
 ---------------------------
 <h3>
 &emsp;&emsp;This repository is a collection of essential concepts in programming with with focus on Object Oriented Programming in Java. It contains notes and examples of different topics which are highly relevant when designing robust, clear, effective and flexible software.
 </h3>
-<center><h4><b>Created at September 10<sup>th</sup>, 2022</b></h4></center>
+<h4><b style="text-align:center">Created at September 10<sup>th</sup>, 2022</b></h4>
 <br><br>
 
-# Repository table of contents
+# Table of Contents
+
+* [Repository Table of Contents](#repository-table-of-contents)
+* [Credits and References](#credits-and-references)
+* [Authors](#authors)
+* [Information](#information)
+<br><br>
+
+# Repository Table of Contents
 * Algorithms<br>
   * Searching algorithms
   * Sorting algorithms
@@ -29,13 +38,11 @@
 * Software Design<br>
   * Design principles
   * OOP principles
-
 <br><br>
 
-# <a href="#references" id="ref">Credits and References</a>
+# Credits and References
 &emsp;&emsp;<b>Important:</b> Much of this repository's content has references, images, code and examples gathered from websites, school lectures, published books, and organizations. We do not make profit of this repository in any way, nor de we distribute this repository in any ways that would break the terms of copyright ownership. Contents of this repository should not be directory copied to use in official software, papers, projects, or exams. Copy of this notes in an exam would most certainly result as plagiarism. Therefore, we only intend to maintain, develop, use, and distribute this project for educational purposes only. 
 <br><br>
-
 <h3><b>References:</b></h3>
 <p>&emsp;&emsp;We crecit the following sources of information all honor, making it possible to make this educational project possible. We issue a greatfulness and credits to the following organizations and sources, which we have quoted and gathered inspiration from:</p>
 
@@ -52,16 +59,15 @@
 <br><br>
 
 # Authors
-&emsp;&emsp;<b>Important:</b> While some of this content is purely developed by the authors, parts of the content of this repository is imported from websites, school lectures, published books, and organizations. (See <a href="#references">Credits and References</a>).<br>
+&emsp;&emsp;<b>Important:</b> While some of this content is purely developed by the authors, parts of the content of this repository is imported from websites, school lectures, published books, and organizations. (See [Credits and References](#credits-and-references).)<br>
 
 
-<<<<<<< HEAD
 This project was made by the following:
 
 * Jørgen Finsveen - Bachelors Student at NTNU Ålesund, <i>Bachelor in Computer Engineering</i> (2<sup>nd</sup> Year, 2022)
 * Even Johan P. Haslerud - Bachelors Student NTNU Ålesynd, <i>Bachelor in Computer Engineering</i> (2<sup>nd</sup> Year, 2022)
+<br><br>
 
-<br>
 
 # Information
 * Most of the repository's code-content is written in Java™ programming language.
@@ -71,19 +77,3 @@ This project was made by the following:
 * This is a non-profit project for only educational purposes, made by students which are studying these topics.
 
 
-
-<style>
-a {
-    color:red;
-}
-#ref {
-    color:white;
-}
-</style>
-=======
-Design patterns and its uses, see this link:
-https://refactoring.guru
-
-Theory, litterature, images and coding examples:
-https://www.geeksforgeeks.org/
->>>>>>> 112e7e8539fddf343c253474b4591f499a63efca
