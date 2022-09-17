@@ -55,6 +55,7 @@
 &emsp;&emsp;<b>Important:</b> While some of this content is purely developed by the authors, parts of the content of this repository is imported from websites, school lectures, published books, and organizations. (See <a href="#references">Credits and References</a>).<br>
 
 
+<<<<<<< HEAD
 This project was made by the following:
 
 * Jørgen Finsveen - Bachelors Student at NTNU Ålesund, <i>Bachelor in Computer Engineering</i> (2<sup>nd</sup> Year, 2022)
@@ -79,3 +80,10 @@ a {
     color:white;
 }
 </style>
+=======
+Design patterns and its uses, see this link:
+https://refactoring.guru
+
+Theory, litterature, images and coding examples:
+https://www.geeksforgeeks.org/
+>>>>>>> 112e7e8539fddf343c253474b4591f499a63efca
