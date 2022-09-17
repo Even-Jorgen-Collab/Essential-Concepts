@@ -1,4 +1,4 @@
-/*
+/**
  * This file is part of NTNU's IDATA2302 Lab02.
  *
  * Copyright (C) NTNU 2022

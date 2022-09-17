@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Essential_concepts/Algorithms/Other_algorithms/BinaryEncodingDecoding/"
+        "Essential_concepts/Data_structures/ADTs/Dynamic/",
+        "Essential_concepts/Algorithms/Other_algorithms/BinaryEncodingDecoding/",
     ],
     "spring-boot.ls.problem.java.JAVA_SPEL_EXPRESSION_SYNTAX": "ERROR",
     "java.errors.incompleteClasspath.severity": "ignore",
@@ -43,7 +44,7 @@
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": false,
     "jupyter.kernels.filter": [
-    {"/Library/Frameworks/Python.framework/Versions/3.10/share/jupyter/kernels/java"}: ""
+    {"/Library/Frameworks/Python.framework/Versions/3.10/share/jupyter/kernels/java":""},
     ],
     
 }
