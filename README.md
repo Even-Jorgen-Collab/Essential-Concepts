@@ -10,10 +10,11 @@
 
 # Table of Contents
 
-* [Repository Table of Contents](#repository-table-of-contents)
-* [Credits and References](#credits-and-references)
-* [Authors](#authors)
-* [Information](#information)
+- [Table of Contents](#table-of-contents)
+- [Repository Table of Contents](#repository-table-of-contents)
+- [Credits and References](#credits-and-references)
+- [Authors](#authors)
+- [Information](#information)
 <br><br>
 
 # Repository Table of Contents
@@ -44,14 +45,16 @@
 &emsp;&emsp;<b>Important:</b> Much of this repository's content has references, images, code and examples gathered from websites, school lectures, published books, and organizations. We do not make profit of this repository in any way, nor de we distribute this repository in any ways that would break the terms of copyright ownership. Contents of this repository should not be directory copied to use in official software, papers, projects, or exams. Copy of this notes in an exam would most certainly result as plagiarism. Therefore, we only intend to maintain, develop, use, and distribute this project for educational purposes only. 
 <br><br>
 <h3><b>References:</b></h3>
-<p>&emsp;&emsp;We crecit the following sources of information all honor, making it possible to make this educational project possible. We issue a greatfulness and credits to the following organizations and sources, which we have quoted and gathered inspiration from:</p>
+<p>&emsp;&emsp;We wish to give credit to the following sources of information, making it possible for us to make this educational project. We issue a greatfulness and credits to the following organizations and sources, which we have quoted and gathered inspiration from:</p>
 
 * GeeksforGeeks - <a>https://www.geeksforgeeks.org</a>
 * w3schools - <a>https://www.w3schools.org</a>
 * HackerRank - <a>https://www.hackerrank.com/dashboard</a>
 * eG Innovations - <a>https://www.eginnovations.com</a>
-* Stack Overflow <a>https://www.stackoverflow.com</a>
-* NTNU - Lectures and examples offered by the courses included in the univeristy program "Bachelor in Computer Engineering"
+* Stack Overflow - <a>https://www.stackoverflow.com</a>
+* Baeldung - <a>https://www.baeldung.com</a>
+* Oracle Docs - <a>https://docs.oracle.com/</a>
+* NTNU - Lectures and examples offered by the courses included in the univeristy program "Bachelor in Computer Engineering" at Campus Ålesund
 * Barnes, D.J & Kölling, M. (2017) <i>Objects First with Java™ - A Practical Introduction Using BlueJ - SIXTH EDITION</i>. Pearson, Edinburgh
 * Hegna, K. & Maus, A. (2017) <i>Javaprogrammering Kort og Godt</i>. Universitetsforlaget, Oslo
 * Rumbaugh et al. (1991) <i>Object-Oriented Modeling and Design</i>. Prentice-Hall International Editions, New Jersey
@@ -71,9 +74,10 @@ This project was made by the following:
 
 # Information
 * Most of the repository's code-content is written in Java™ programming language.
-* Some of the repository's content are Jupyter Notebook files <i>(*.ipynb)</i>, with a customized Jupyter Notebook Kernel which supports Java programming language. This kernel is made by IJava, and is available for the public.<br>
+* Some of the repository's content are Jupyter Notebook files <i>(*.ipynb)</i>, with a customized Jupyter Notebook Kernel which supports Java™ programming language. This kernel is made by IJava, and is available for the public.<br>
   * <a href="https://jupyter.org">Jupyter Notebook</a>
   * <a href="https://github.com/SpencerPark/IJava">SpencerPark/IJava</a>
 * This is a non-profit project for only educational purposes, made by students which are studying these topics.
+* The Java™ code projects located in this repository, are using Apache Maven for project management. (See: <a href="https://maven.apache.org">Apache Maven Project</a>)
 
 
