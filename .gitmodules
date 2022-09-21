@@ -1,6 +1,0 @@
-[submodule "encoding-exercise-group-11"]
-	path = encoding-exercise-group-11
-	url = https://github.com/ntnu-datakomm/encoding-exercise-group-11.git
-[submodule "Datatypes"]
-	path = Datatypes
-	url = https://github.com/jorgfinsv/Datatypes.git
