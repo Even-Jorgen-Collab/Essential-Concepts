@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="17" failures="0" name="no.ntnu.jorgfi.algorithm.TestEncoder" time="0.009" errors="0" skipped="0">
+<testsuite tests="17" failures="0" name="no.ntnu.jorgfi.algorithm.TestEncoder" time="0.008" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.4.1+1"/>
@@ -66,15 +66,15 @@
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testUpperLowerEncode" time="0.004"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testLowercaseEncode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidBitCountDecode" time="0"/>
-  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testAllAllowedDecode" time="0"/>
+  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testAllAllowedDecode" time="0.001"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testAllAllowedEncode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testEmptyDecode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testEmptyEncode" time="0"/>
-  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidSeparatorDecode" time="0.001"/>
+  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidSeparatorDecode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidBitValueDecode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidBitBlockLengthDecode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testNullDecode" time="0"/>
-  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testNullEncode" time="0.001"/>
+  <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testNullEncode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testUppercaseEncode" time="0"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidSingleBitDecode" time="0.001"/>
   <testcase classname="no.ntnu.jorgfi.algorithm.TestEncoder" name="testInvalidInputEncode" time="0"/>
