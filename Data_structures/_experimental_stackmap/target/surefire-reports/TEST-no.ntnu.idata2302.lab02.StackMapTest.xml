@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="no.ntnu.idata2302.lab02.StackMapTest" time="0.019" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="no.ntnu.idata2302.lab02.StackMapTest" time="0.022" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="NO"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire/surefirebooter1260216126545145728.jar /Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire 2022-09-21T22-44-29_649-jvmRun1 surefire2184525048199618159tmp surefire_014937678132456439643tmp"/>
+    <property name="sun.java.command" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire/surefirebooter3405361970238800848.jar /Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire 2022-09-21T22-51-30_883-jvmRun1 surefire1935312304321565307tmp surefire_010556931477795118932tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/test-classes:/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/classes:/Users/jorgenfinsveen/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar:/Users/jorgenfinsveen/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar:/Users/jorgenfinsveen/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/jorgenfinsveen/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/jorgenfinsveen/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar:/Users/jorgenfinsveen/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar:/Users/jorgenfinsveen/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar:/Users/jorgenfinsveen/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire/surefirebooter1260216126545145728.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/_experimental_stackmap/target/surefire/surefirebooter3405361970238800848.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -55,13 +55,13 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="searchingWithNoneExistingKeyOrValueReturnsNull" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.009"/>
+  <testcase name="searchingWithNoneExistingKeyOrValueReturnsNull" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.011"/>
   <testcase name="searchingWithKeyOrValue" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.001"/>
   <testcase name="firstValueIsAtIndexZero" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
   <testcase name="throwsExceptionWhenTryingToPopEmptyNewHashMap" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.001"/>
-  <testcase name="stackMapSucessfullyPopsItem" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
-  <testcase name="stackMapReducesCapacity" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.001"/>
-  <testcase name="stackMapRisesCapacity" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
+  <testcase name="stackMapSucessfullyPopsItem" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.001"/>
+  <testcase name="stackMapReducesCapacity" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
+  <testcase name="stackMapRisesCapacity" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0.001"/>
   <testcase name="stackMapSucessfullyAddsItem" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
   <testcase name="emptyStackMapHasLengthZero" classname="no.ntnu.idata2302.lab02.StackMapTest" time="0"/>
 </testsuite>

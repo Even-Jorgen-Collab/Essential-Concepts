@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="NO"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire/surefirebooter13467338494368436359.jar /Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire 2022-09-21T22-44-06_145-jvmRun1 surefire2446630075830458495tmp surefire_011298174365912390289tmp"/>
+    <property name="sun.java.command" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire/surefirebooter1774999430543598049.jar /Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire 2022-09-21T22-52-01_979-jvmRun1 surefire17252606622163025281tmp surefire_09707039234201833223tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/test-classes:/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/classes:/Users/jorgenfinsveen/.m2/repository/junit/junit/4.13/junit-4.13.jar:/Users/jorgenfinsveen/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire/surefirebooter13467338494368436359.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/Essential_concepts/Data_structures/linkedlist_single_link/target/surefire/surefirebooter1774999430543598049.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -58,14 +58,14 @@
   <testcase name="appendAddsAnItemAtTheBack" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0.001"/>
   <testcase name="searchReturnsZeroWhenNotFound" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="getRejectsIndexBeyondLength" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
-  <testcase name="insertShiftsOnlySubsequentItemsTowardsTheEnd" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0.001"/>
+  <testcase name="insertShiftsOnlySubsequentItemsTowardsTheEnd" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="getRejectsZeroIndex" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="emptySequenceHasLengthZero" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="setUpdateItemByIndex" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="appendingFromScratchShouldBuildaList" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="removeShiftsOnlySubsequentItemsTowardsTheFront" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
-  <testcase name="prependingFromScratchShouldReverseTheList" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0.001"/>
+  <testcase name="prependingFromScratchShouldReverseTheList" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="insertIncreaseLengthByOne" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
   <testcase name="searchReturnsAnIndexWhereItemIs" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
-  <testcase name="getReturnsTheItemAtIndex" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0"/>
+  <testcase name="getReturnsTheItemAtIndex" classname="no.ntnu.idata2302.lab03.IterativeListTest" time="0.001"/>
 </testsuite>
